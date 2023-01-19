@@ -4,7 +4,7 @@ A primitive class designed to allow for testing code for undesired results.  All
 
 This class structure will be expanded upon and additonal functionality will be added.
 
-Version 0.1
+*Version 0.1*
   - Created the project
   - Added the Input function to take in a value as a parameter and store it in the member variable
   - Added the Print function to print the member variable
